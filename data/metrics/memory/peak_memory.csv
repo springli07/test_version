@@ -1,0 +1,5 @@
+implementation,status,max_rss_kb,max_rss_bytes
+reference,PASS,1044,1069056
+performance_optimized,PASS,1016,1040384
+resource_optimized,PASS,1048,1073152
+avx512,PASS,1004,1028096
