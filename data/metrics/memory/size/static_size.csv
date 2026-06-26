@@ -1,0 +1,5 @@
+implementation,text,data,bss,dec,hex,file_bytes
+reference,28318,648,48,29014,7156,41408
+performance_optimized,26306,672,8,26986,696a,37456
+resource_optimized,12778,656,8,13442,3482,25280
+avx512,40534,664,8,41206,a0f6,49680
